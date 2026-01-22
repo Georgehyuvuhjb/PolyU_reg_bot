@@ -35,7 +35,9 @@ https://github.com/user-attachments/assets/d1d3b540-11b5-4205-9261-b5d32a4c2bda
 ---
 
 ### 2. 安裝與設定
-1. 下載最新版本的 `.exe` 檔案  
+1. 從github的 `Releases` 下載最新版本的 `.exe` 檔案  
+<img width="170" height="130" alt="image" src="https://github.com/user-attachments/assets/88f8395c-7106-4183-ab9e-2125a2f75e4d" />
+
 2. 執行 **`PolyU_Reg_Helper.exe`**
 3. 若被防火牆擋住，請信任並開啟程式
 4. 在 **登入資訊 (Login Credentials)** 區域輸入：  
