@@ -1,47 +1,68 @@
-# PolyU Registration Helper
-A lightweight, automated tool for PolyU eStudent course registration.
+# PolyU Reg Bot
 
-<img width="541" height="473" alt="image" src="https://github.com/user-attachments/assets/89fa3732-9c27-4f5f-9674-342b20f21689" />
-
-## Overview
-PolyU Registration Helper is an independent desktop application designed to streamline the subject registration process for PolyU students. By automating the repetitive steps of searching, selecting, and confirming subjects, this tool helps users secure their desired course components with higher efficiency and a cleaner interface.
-
-## 📖 User Guide
-
-### 1. Preparation
-Before starting the program, ensure you have the following details from **eStudent**:
-* **Subject Code:** e.g., `ABCT1D04`
-* **Group Number:** e.g., `2001`
-* **Component Codes:** Identify all required components like Lectures, Tutorials, or Labs (e.g., `LTL001`, `T001`).
+- [English Version](README(EN).md)
 
 ---
 
-### 2. Setup
-1.  Download the latest release .exe file
-2.  Launch **`PolyU_Reg_Helper.exe`**.
-3.  In the **Login Credentials** section, enter your:
-    * **Student ID**
-    * **Password**
+## 📢 專案簡介
+各位香港理工大學的學生看過來！  
+你是否曾因手速不夠而未能搶到心儀科目？  
+你是否曾因早上起來選科而打擾睡眠？  
+
+**PolyU Reg Bot** 正是為了解決這些問題而生！  
+
+### 🎥實戰影片:
+https://github.com/user-attachments/assets/d1d3b540-11b5-4205-9261-b5d32a4c2bda
+
 
 ---
 
-### 3. Adding Subjects
-1.  Click the **`+ Add`** button to create a new entry in the registration table.
-2.  Fill in the following columns:
-    * **Code:** Enter the subject code (e.g., `ABCT1D04`). *Note: This is case-insensitive.*
-    * **Group:** Enter the specific group number (e.g., `2001`).
-    * **Components:** Enter the component IDs. 
-        > **💡 Tip:** If there are multiple components, separate them with a comma (e.g., `LTL001, T001`). Ensure these match **exactly** what appears in the eStudent system.
+## ✨ 特色功能
+1. **定時選科**：到點自動運行，讓你不用手動選科之餘，還比手動點選科目更快速
+2. **自動保存**：科目資訊下次打開仍在，不用重複輸入  
+3. **簡單易用**：介面直觀，無需額外設定  
 
 ---
 
-### 4. Execution
-1.  **Review:** Double-check your list for any typos in codes or group numbers.
-2.  **Run:** Click the **`RUN TASK`** button.
-3.  **Monitor:** Keep an eye on the **Logs** window to track the "Step-by-Step" progress.
-4.  **Confirm:** Once the process is finished, a success message will appear. 
-    * *Final Step: Log in to eStudent manually to check your "Study List" and confirm the subjects are successfully registered.*
+## 📖 使用指南
 
+### 1. 準備工作
+在開始使用程式前，請先從 **eStudent** 準備以下資料：  
+* **科目代碼 (Subject Code)：** 例如 `ABCT1D04`  
+* **組別號碼 (Group Number)：** 例如 `2001`  
+* **組件代碼 (Component Codes)：** 包括必修的課堂、導修或實驗 (例如 `LTL001`, `T001`)  
 
-## Disclaimer
-This software is an independent project developed for educational purposes. It is NOT affiliated with, endorsed by, or supported by The Hong Kong Polytechnic University. Users are responsible for complying with the university's IT policies and terms of service.
+---
+
+### 2. 安裝與設定
+1. 下載最新版本的 `.exe` 檔案  
+2. 執行 **`PolyU_Reg_Helper.exe`**
+3. 若被防火牆擋住，請信任並開啟程式
+4. 在 **登入資訊 (Login Credentials)** 區域輸入：  
+   * **學生編號 (Student ID)**  
+   * **密碼 (Password)**  
+
+---
+
+### 3. 新增科目
+1. 點擊 **`+ Add`** 按鈕，在登記表格中新增一筆科目  
+2. 填寫以下欄位：  
+   * **Code：** 輸入科目代碼 (例如 `ABCT1D04`)  
+   * **Group：** 輸入組別號碼 (例如 `2001`)  
+   * **Components：** 輸入組件代碼  
+     > 💡 提示：若有多個組件，請用逗號分隔 (例如 `LTL001, T001`)，並確保與 eStudent 系統顯示完全一致  
+
+---
+
+### 4. 執行流程
+1. **檢查：** 確認所有代碼與組別號碼無誤  
+2. **執行：** 點擊 **`RUN NOW`** 按鈕/點擊 **`START SCHEDULE`** 按鈕，在設定好的時間自動運行
+3. **監控：** 在 **Logs** 視窗中查看逐步進度  
+4. **確認：** 完成後會顯示成功訊息  
+   * 最後步驟：請手動登入 eStudent，檢查是否成功選科 
+
+---
+
+## ⚠️ 免責聲明
+本軟體為獨立開發的專案，  
+**並非**由香港理工大學官方認可、支持或提供。  
