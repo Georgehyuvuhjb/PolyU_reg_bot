@@ -65,6 +65,10 @@ https://github.com/user-attachments/assets/d1d3b540-11b5-4205-9261-b5d32a4c2bda
 
 ---
 
+## ⭐ 如果覺得項目有幫助
+請在 GitHub 上點個 ![GitHub Repo stars](https://img.shields.io/github/stars/Georgehyuvuhjb/PolyU_reg_bot)
+ 支持！
+
 ## ⚠️ 免責聲明
 本軟體為獨立開發的專案，  
 **並非**由香港理工大學官方認可、支持或提供。  
