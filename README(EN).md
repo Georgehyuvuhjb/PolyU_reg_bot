@@ -1,6 +1,6 @@
 # PolyU Reg Bot
 
-- [中文](README.md)
+- [中文](./)
 
 ---
 
