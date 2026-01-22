@@ -64,6 +64,10 @@ Before starting the program, please prepare the following details from **eStuden
 
 ---
 
+## ⭐ Support
+If you find this project helpful, please give it a ![GitHub Repo stars](https://img.shields.io/github/stars/Georgehyuvuhjb/PolyU_reg_bot) on GitHub!  
+
+
 ## ⚠️ Disclaimer
 This software is an independent project,  
 and is **NOT** affiliated with, endorsed by, or provided by The Hong Kong Polytechnic University.  
